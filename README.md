@@ -8,3 +8,11 @@ Northeast region of Thailand that shows happiness and joy through an upbeat non-
 * Khaen: a wind instrument made from bamboo.
 
 These musical instruments are usually accompanied by hythmic instruments (such as drums) and traditional dance expressing hopefulness and joy.
+
+In the performance, there are 6 robots presented, consisting of 4 musicians, 1 dancer, and 1 conductor.
+* Musician No.1 plays Pong Lang.
+* Musician No.2 plays Phin.
+* Musician No.3 plays Khaen.
+* Musician No.4 plays drum.
+
+The robot musicians and the robot dancers are controlled by the robot conductor, with an AI model developed using KibBright AI platform. The robot conductor will recognize the three different objects (Kratip Khao, Sai, wicker basket) human dancer who dances along with the robots use in her dance and will send infrared control signals to all other robots to change choreographs accordingly.
