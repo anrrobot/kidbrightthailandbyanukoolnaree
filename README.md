@@ -17,6 +17,19 @@ In the performance, there are 6 robots presented, consisting of 4 musicians, 1 d
 
 The robot musicians and the robot dancers are controlled by the robot conductor, with an AI model developed using KibBright AI platform. The robot conductor will recognize the three different objects (Kratip Khao, Sai, wicker basket) human dancer who dances along with the robots use in her dance and will send infrared control signals to all other robots to change choreographs accordingly.
 
+## Features: 
+* The robot performance is using image classification by KidBright AI Platform. The human performer will show one by one of the 3 local equipment in front of the camera. Then, the KidBright AI Platform will classify the image and send a signal via Bluetooth to the conductor robot. Next, the conductor robot will send an infrared signal to the dancer robot to perform dance movements that correspond with the classified image.
+
+
+* The dancer’s arm imitates the mobility of the human arm with the coordination of four 180-degree servos that make the dancer robot’s dance similar to human’s dance and more beautiful.
+
+
+* The communication between the robots while they are performing uses wireless communication via Bluetooth and infrared signals.
+
+
+* The dancer robot can move omnidirectionally. It can also prevent collisions by using ultrasonic sensors and will stop moving when an object is detected at a predetermined distance from the robot.
+
+
 ## The Participants Name
 * Miss Nattakarn Phoonet    (software and hardware)
 * Mr. Sakdipat Meetham      (mechanics and software)
