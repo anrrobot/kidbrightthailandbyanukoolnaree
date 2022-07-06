@@ -23,3 +23,7 @@ The robot musicians and the robot dancers are controlled by the robot conductor,
 * Mr. Thanawut Preekul      (hardware and electronics)
 * Miss Supattra Rairat      (electronics and costume design)
 * Miss Yok Boonchaiyong     (art design and other)
+
+## Organization
+Anukoolnaree School<br>
+Kalasin, Thailand
